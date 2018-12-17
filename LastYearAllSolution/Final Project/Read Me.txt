@@ -1,0 +1,19 @@
+The CS-595_Gadne_Sameer_A20392126_Final_Project_Report.zip uploaded on the Blackboard for CS-595 Final Project includes the following set of documents:
+
+	1. Gadne_Sameer_CS595_Final_Project_Report.docx					==> Final Project Report
+	2. CS-59501_2018S_Sameer_Gadne_Final_Project - A20392126.pptx	==> Final Project Presentation
+	3. project_nb.ipynb												==> Big Data Pipeline Jupyter Notebook [Please refer this file to understand the entire ETL process workflow in detail alongwith the functions performed at each step*] 
+	4. pre_processing.sh 											==> Data Preprocessing     [UNIX shell script]
+	5. project_transform_load_script.py								==> Data Transformation    [Pyspark script]
+	6. post_processing.sh											==> Data Post-processing   [UNIX shell script]
+	7. project_hive_queries.hql										==> Hive Queries Analysis  [HQL statements/queries to gather Stylized Facts on the transfomed data]
+	8. project_analysis.R											==> Data Mining & Analysis [R script to perform basic EDA - Exploratory Data Analysis (Histograms, Plots, Unsupervised Clustering[K-Means])]
+	
+	9. Source Files: IMDB-Movie-Data.csv
+					 movies_metadata.csv
+	
+	10. Target File: target_table.csv
+
+***************************************
+* Created By: Sameer Gadne [A20392126]
+***************************************

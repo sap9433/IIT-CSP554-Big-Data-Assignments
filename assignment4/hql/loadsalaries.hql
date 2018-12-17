@@ -1,0 +1,3 @@
+LOAD DATA LOCAL INPATH './Salaries.tsv' OVERWRITE INTO TABLE cs595.salaries;
+
+

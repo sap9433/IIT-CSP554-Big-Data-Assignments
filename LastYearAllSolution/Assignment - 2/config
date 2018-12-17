@@ -1,0 +1,12 @@
+Host azureSandbox 
+  Port 22
+  User cs595s2018 
+  HostName 23.96.218.84
+  LocalForward 8080 127.0.0.1:8080
+  LocalForward 8888 127.0.0.1:8888
+  LocalForward 9995 127.0.0.1:9995
+  LocalForward 9996 127.0.0.1:9996
+  LocalForward 8886 127.0.0.1:8886
+  LocalForward 10500 127.0.0.1:10500
+  LocalForward 4200 127.0.0.1:4200
+  LocalForward 2222 127.0.0.1:2222

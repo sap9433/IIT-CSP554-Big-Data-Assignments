@@ -1,0 +1,6 @@
+our job will be defined in a file to be executed on your machine as a Python script, as well as on a Hadoop cluster as an individual map, combine, or reduce task. (See How your program is run for more on that.)
+
+All dependencies must either be contained within the file, available on the task nodes, or uploaded to the cluster by mrjob when your job is submitted. (Runners explains how to do those things.)
+
+The following two sections are more reference-oriented versions of Writing your first job and Writing your second job.
+
